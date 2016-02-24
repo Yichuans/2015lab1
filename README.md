@@ -34,3 +34,4 @@ The diagram below should help elucidate the above and serve as a command cheat-s
 
 ![homework](cs109gitflow3.png)
 
+this is some test text
